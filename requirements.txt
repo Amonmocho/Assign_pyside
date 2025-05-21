@@ -1,0 +1,5 @@
+watchdog
+sentence-transformers
+scikit-learn
+pyside6
+python-dotenv
